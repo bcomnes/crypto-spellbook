@@ -17,7 +17,7 @@ A living collection of resources regarding cryptographic techniques and tools.
 [nacl]: nacl.md
 [primitives]: primitives.md
 [ssb]: ssb.md
-[leveldb]: leveldb.md
+[level-db]: leveldb.md
 
 ## Knowledge / Quotes
 
