@@ -69,3 +69,6 @@ A fork called node-sodium-prebuilt was the first attempt to prebuild those bindi
 
 - [nacl.md](nacl.md)
 - [SSB + Audit Driven Crypto](ssb.md)
+
+[eb]: https://github.com/emilbayes
+[maf]: https://github.com/mafintosh
