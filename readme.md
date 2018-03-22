@@ -12,12 +12,12 @@ A living collection of resources regarding cryptographic techniques and tools.
 - [ssb][ssb] - Secure scuttlebutt
 - [leveldb][leveldb] - Crypto applications built on top of leveldb.
 
-[dat]: dat.md
-[sodium]: sodium.md
-[nacl]: nacl.md
-[primitives]: primitives.md
-[ssb]: ssb.md
-[leveldb]: level-db.md
+[dat]: /dat.md
+[sodium]: /sodium.md
+[nacl]: /nacl.md
+[primitives]: /primitives.md
+[ssb]: /ssb.md
+[leveldb]: /level-db.md
 
 ## Knowledge / Quotes
 

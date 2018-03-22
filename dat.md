@@ -11,7 +11,7 @@ A repo to collect and organize info about [dat][dat] in a way that makes sense t
 - [hypercore-protocol](https://github.com/mafintosh/hypercore-protocol) - A node duplex stream that implements the hypercore protocol
 - [Hypercore](https://github.com/mafintosh/hypercore) - Append only logs using over the hypercore protocol
 - [Hyperdrive](https://github.com/mafintosh/hyperdrive) - Versioned and syncable file archives built with hypercores
-- [dat-node](https://github.com/datproject/dat-node) - A dat client as a library.  Used to manage a single dat from a library.
+- [dat-node](``https://github.com/datproject/dat-node) - A dat client as a library.  Used to manage a single dat from a library.
 - [multidat](https://github.com/dat-land/multidat) - A lib for managing multiple dats from a library.
 
 ### Storage providers
@@ -22,8 +22,11 @@ A repo to collect and organize info about [dat][dat] in a way that makes sense t
 
 ### Networking layers
 
+- [mafintosh/signalhub](https://github.com/mafintosh/signalhub) -
+Simple signalling server that can be used to coordinate handshaking with webrtc or other fun stuff.  Needed for discovery-channel to operate.
 - [discovery-channel](https://github.com/maxogden/discovery-channel) - look for peers at a key, and announce your presence.
-- [discovery-swarm](https://github.com/mafintosh/discovery-swarm) - Discovery peers at a key, and replicate a stream with them.
+- [discovery-swarm](https://github.com/mafintosh/discovery-swarm) - Discover peers at a key, and node duplex stream with them.
+- [mafintosh/discovery-server](https://github.com/mafintosh/discovery-server) - A tcp/utp server that auto announces itself using discovery-channel. Basically a server-only version of discovery-swarm
 - [dat-swarm-defaults](https://github.com/datproject/dat-swarm-defaults) - Defaults for dns and dht servers
 - [karissa/hyperdiscovery](https://github.com/karissa/hyperdiscovery) - Pass a hypercore or hyperdrive in, and it will join a swarm and repliacte.
 
@@ -75,4 +78,4 @@ Dat uses lots of orgs and people's github accounts to store code and projects.
 - [sodium friends][https://github.com/sodium-friends] - Javascript friends of libsodium
 
 [ras]: https://github.com/random-access-storage
-[hpa]: https://github.com/prebuild 
+[hpa]: https://github.com/prebuild

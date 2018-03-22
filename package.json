@@ -1,0 +1,22 @@
+{
+  "name": "crypto-cookbook",
+  "version": "1.0.0",
+  "description": "A living collection of resources regarding cryptographic techniques and tools.",
+  "main": "index.js",
+  "scripts": {
+    "build": "sitedown"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcomnes/crypto-cookbook.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcomnes/crypto-cookbook/issues"
+  },
+  "homepage": "https://github.com/bcomnes/crypto-cookbook#readme",
+  "devDependencies": {
+    "sitedown": "^3.3.0"
+  }
+}
