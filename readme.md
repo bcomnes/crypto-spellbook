@@ -1,5 +1,7 @@
 # Crypto cookbook
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bcomnes/crypto-cookbook.svg)](https://greenkeeper.io/)
+
 A living collection of resources regarding cryptographic techniques and tools.
 
 - [primitives][primitives]: Crypto primitives and glossary.
