@@ -39,6 +39,8 @@ Simple signalling server that can be used to coordinate handshaking with webrtc 
 
 - [karissa/hypercore-stats-server](https://github.com/karissa/hypercore-stats-server)
 - [mafintosh/hypercore-stats-ui](https://github.com/mafintosh/hypercore-stats-ui)
+- [jimpick/vizceral-hypercore-stats](https://github.com/jimpick/vizceral-hypercore-stats)
+  - using: https://github.com/Netflix/vizceral
 
 ### Roll your own dat
 
